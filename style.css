@@ -1,0 +1,14 @@
+.header {
+    background-color: aliceblue;
+    height: 30vh;
+}
+
+.section {
+    background-color: cadetblue;
+    height: 80vh;
+}
+
+.footer {
+    background-color: dimgray;
+    height: 20vh;
+}
