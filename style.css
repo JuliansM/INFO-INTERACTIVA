@@ -2,25 +2,18 @@ body {
     background-color: #D6801E;
 }
 .header {
-    /*background-image: url("images/header.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    padding-bottom: 38rem;*/
-}
-
-.img {
-    margin: 0;
-    width: 100%;
+    padding: 0;
 }
 
 .section {
     display: inline-block;
     position: relative;
+    padding: 0;
 }
 
 .section a {
     position: absolute;
-    bottom: 30em;
+    bottom: 32em;
     right: 4em;
     border-radius: 1.5em;
     text-transform: uppercase;
@@ -28,16 +21,11 @@ body {
     font-weight: bold;
 }
 
-.section {
-    /*background-color: aliceblue;
-    background-image: url("images/section.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;*/
+.img {
+    margin: 0;
+    width: 100%;
 }
 
 .footer {
-    /*background-color: aliceblue;
-    background-image: url("images/footer.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;*/
+    padding: 0;
 }
