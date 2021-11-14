@@ -1,14 +1,23 @@
 .header {
     background-color: aliceblue;
-    height: 30vh;
+    background-image: url("images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 99vh;
 }
 
 .section {
-    background-color: cadetblue;
-    height: 80vh;
+    background-color: aliceblue;
+    background-image: url("images/section.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 145vh;
 }
 
 .footer {
-    background-color: dimgray;
-    height: 20vh;
+    background-color: aliceblue;
+    background-image: url("images/footer.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 180vh;
 }
